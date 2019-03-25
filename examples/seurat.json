@@ -1,0 +1,413 @@
+{
+   "font_css": "stock:opensans-gentiumbook",
+  "storymap": {
+      "map_type": "zoomify",
+      "slides": [
+          {
+              "date": "",
+              "location": {
+                  "icon": "https://cdn0.iconfinder.com/data/icons/map-3/1024/pin-512.png",
+                  "line": true
+              },
+      "background": {
+        "url": 				"../img/caterinafoto.png",
+        "color": 			"#D6B7AF",
+        "opacity": 			35
+      },
+              "text": {
+                  "headline": "Casa-Museu Clos del Pastor - Arxiu Víctor Català: <br>Anàlisi i proposta de millora",
+                  "text": "<br>Lluís Bellas, Carla Fernández, Lorena Maeso, Paula Solé i Anna Vila"
+              },
+              "type": "overview"
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "https://cdn0.iconfinder.com/data/icons/map-3/1024/pin-512.png",
+                  "lat": 45.71563324165896,
+                  "line": true,
+                  "lon": -38.140625,
+                  "zoom": 4
+              },
+              "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "<blockquote><p><small>No vull que em segresteu el pensament dintre de fets o fórmules pactades</small></p><cite><i>Insubmissió</i> (1947), Caterina Albert</cite></blockquote>"
+                },
+              "text": {
+                  "headline": "Caterina Albert",
+                  "text": "Nascuda a l’Escala (1869 - 1966), és una de les escriptores catalanes més destacades. Després de l’escàndol que va provocar l’any 1898 en ser-li premiat el monòleg <i>La infanticida</i> als Jocs Florals d’Olot, considerat impropi d’una noia pels sectors conservadors, va adoptar el pseudònim Víctor Català per preservar la seva llibertat i l’autenticitat de la seva obra. La seva obra més important és la novel·la Solitud (1905)."
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "https://cdn0.iconfinder.com/data/icons/map-3/1024/pin-512.png",
+                  "lat": 75.45307133006602,
+                  "line": true,
+                  "lon": -95.126953125,
+                  "zoom": 3
+              },
+              "media": {
+                  "caption": "Interior de la Casa-Museu",
+                  "credit": "parroquiaempuries.org",
+                  "url": "http://www.parroquiaempuries.org/files/05-Interior.jpg"
+              },
+              "text": {
+                  "headline": "La Casa-Museu Clos del Pastor",
+                  "text": "És la casa lliurada a Caterina Albert per la seva activitat literària. Actualment, és la seu de l'Arxiu Víctor Català, i s'hi organitzen visites guiades des del Museu de l'Anxova i de la Sal. Està protegida com a Bé Cultural d’Interès Local, i va ser comprada als descendents de l'escriptora l'any 2017 amb la condició de mantenir-la com a museu."
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 57.14079039331665,
+                  "line": true,
+                  "lon": -148.44921875,
+                  "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": "https://i.imgur.com/rEocfrP.jpg"
+              },
+              "text": {
+                  "headline": "Anàlisi DAFO",
+                  "text": ""
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 57.14079039331665,
+                  "line": true,
+                  "lon": -148.44921875,
+                  "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": "https://i.imgur.com/Wx7ZUSN.jpg"
+              },
+              "text": {
+                  "headline": "",
+                  "text": ""
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 57.14079039331665,
+                  "line": true,
+                  "lon": -148.44921875,
+                  "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": "https://i.imgur.com/dx27SFJ.jpg"
+              },
+              "text": {
+                  "headline": "",
+                  "text": ""
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 57.14079039331665,
+                  "line": true,
+                  "lon": -148.44921875,
+                  "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": "https://i.imgur.com/nFnv6CO.jpg"
+              },
+              "text": {
+                  "headline": "",
+                  "text": ""
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 57.14079039331665,
+                  "line": true,
+                  "lon": -148.44921875,
+                  "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": "https://i.imgur.com/VsYzu2h.jpg"
+              },
+              "text": {
+                  "headline": "",
+                  "text": ""
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 60.14079039331665,
+                  "line": true,
+                  "lon": -109.44921875,
+                  "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": ""
+              },
+              "text": {
+                  "headline": "Problemes principals",
+                  "text": "<br>1. <b>Difusió de la casa-museu</b>: és un equipament poc conegut a nivell local i en general a Catalunya. Confusió entre la casa natal, Casa Albert, i la casa-museu Clos del Pastor<br>2. <b>Personatge</b> conegut dins de la literatura però amb poca vinculació amb el poble.<br>3. <b>Forta competència</b> de turisme cultural i d’oci a L’Escala: domina el turisme de costa i el turisme patrimonial amb el jaciment arqueològic d’Empúries.<br>4. <b>Equipament amb una museografia feble i obsoleta</b>, programació d’activitats escassa i posicionament turístic nul.<br>5. <b>Poques iniciatives de l’Ajuntament</b> per posicionar la casa en la oferta cultural i turística malgrat haver-la adquirit recentment (2017)."
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 75.45307133006602,
+                  "line": true,
+                  "lon": -70.126953125,
+                  "zoom": 3
+              },
+              "media": {
+                  "caption": "Visita Teatralitzada al Museo Casa Natal de Cervantes",
+                  "credit": "museocasanataldecervantes.org",
+                  "url": "http://farm8.static.flickr.com/7805/32433755967_d73bf2c146_b.jpg"
+              },
+              "text": {
+                  "headline": "<i>Benchmarking</i>",
+                  "text": "1. <b>Casa Hans Christian Andersen</b>, Dinamarca. Museografia que permet fullejar els seus llibres a través d’ordinadors i escoltar fragments dels contes en punts concrets en diversos idiomes.<br>2. <b>Casa Cervantes</b>, Alcalá de Henares. Dissabtes de 2 de març al 4 de maig es fan animacions teatrals en referència a Cardenio, un personatge dels primers actes del Quixot que va utilitzar Shakespeare en una obra de teatre."
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 75.45307133006602,
+                  "line": true,
+                  "lon": -70.126953125,
+                  "zoom": 3
+              },
+              "media": {
+                  "caption": "Dormitori de la Casa Gassia",
+                  "credit": "ecomuseu.com",
+                  "url": "http://www.ecomuseu.com/wp-content/uploads/habitacio-1-casa-Gassia.jpg"
+              },
+              "text": {
+                  "headline": "<i>Benchmarking</i>",
+                  "text": "3. <b>Casa Gassia</b>, Ecomuseu de les Valls d’Àneu. És un ecomuseu que està estretament relacionat amb la comunitat i el seu patrimoni natural. El museu organitza també visites guiades teatralitzades a partir d’un personatge.<br> 4. <b>Casa Museu Verdaguer</b>, Folgueroles. Té un pla de difusió i de promoció que va més enllà de les accions del propi museu, incloent-se en les estratègies de comunicació de l’Ajuntament i participant en diverses xarxes i programes."
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 75.45307133006602,
+                  "line": true,
+                  "lon": -70.126953125,
+                  "zoom": 3
+              },
+              "media": {
+                  "caption": "Entrada de la Real Academia Gallega/Casa Museo Emilia Pardo Bazán",
+                  "credit": "ocioengalicia.com",
+                  "url": "http://ocioengalicia.com/coruna/wp-content/uploads/sites/5/2017/09/casa-museo-emilia-pardo-bazan-E.jpg"
+              },
+              "text": {
+                  "headline": "<i>Benchmarking</i>",
+                  "text": "5. <b>Casa Vicens</b>, Barcelona. Realitzen visites guiades sensorials amb la utilització d’essències olfactives que recreen l’ambient olfactiu de cada sala.<br>6. <b>Casa Museo Emilia Pardo Bazán</b>, A Coruña. Al voltant d’una de les grans escriptores gallegues, organitzen diferents tipus de visites guiades en funció dels públics i dels interessos d’aquests."
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 75.45307133006602,
+                  "line": true,
+                  "lon": -70.126953125,
+                  "zoom": 3
+              },
+              "media": {
+                  "caption": "Pati-jardí de la CM Frida Kahlo",
+                  "credit": "civitatis.com",
+                  "url": "https://cdn.civitatis.com/mexico/ciudad-de-mexico/galeria/casa-azul-frida-kahlo.jpg"
+              },
+              "text": {
+                  "headline": "<i>Benchmarking</i>",
+                  "text": "7. <b>Casa Duran i Sanpere</b>, Cervera. Sota la premissia “El Museu és una escola” s'ha convertit la Casa-Museu en un espai d’aprenetatges intergeneracionals, interculturals i amb perspectiva de gènere.<br>8. <b>Casa Azul Museo Frida Kahlo</b>, Ciudad de México. Utilitza algunes de les obres més importants de la pintora, i a la vegada ofereix una visita pels més petits que té lloc al pati i als jardins de la casa."
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 78.71190310803662,
+                  "line": true,
+                  "lon": -23.140625,
+                  "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": ""
+              },
+              "text": {
+                  "headline": "Proposta",
+                  "text": "<br><b>SOLUCIÓ 1: SOBRE LA DIFUSIÓ DE LA CASA MUSEU</b><br>Campanya de difusió des de l’ajuntament, l’oficina de turisme i altres entitats locals a través de la creació i distribució de fulletons i programes, com també la creació d’una pàgina web oficial del museu. Canvi de nom de la institució per aclarir la relació amb Caterina Albert."
+              }
+          },
+          {
+            "date": "",
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 78.71190310803662,
+                "line": true,
+                "lon": -23.140625,
+                "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": ""
+              },
+              "text": {
+                  "headline": "",
+                  "text": "<b>SOLUCIÓ 2: VÍCTOR CATALÀ, LA PRIMERA ESCRIPTORA FEMINISTA EN UN MÓN D’HOMES</b><br> Víctor Català va ser una dona moderna, avançada al seu temps, una pionera. Precisament per això seria interessant incloure la casa als Endrets de la geografia literària dels Països Catalans per tal d’equiparar-la a la resta d’autors i autores de la literatura catalana que en formen part."
+              }
+          },
+          {
+            "date": "",
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 78.71190310803662,
+                "line": true,
+                "lon": -23.140625,
+                "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": ""
+              },
+              "text": {
+                  "headline": "",
+                  "text": "<b>SOLUCIÓ 3: SOBRE LA RELACIÓ AMB L’ENTORN</b><br>Vinculació de la casa museu amb el jaciment d’Empúries en motiu de la faceta d’arqueòloga de Caterina Albert. Implementació d’una ruta comentada i/o d’una visita teatralitzada. Alhora, aprofitar la casa natal de Caterina Albert per fer-hi visites i vincular els dos espais."
+              }
+          },
+          {
+            "date": "",
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 78.71190310803662,
+                "line": true,
+                "lon": -23.140625,
+                "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": ""
+              },
+              "text": {
+                  "headline": "",
+                  "text": "<b>SOLUCIÓ 4: VINCULACIÓ AMB ACTUALITAT</b><br>Creació d’una activitat o un cicle de dones icòniques catalanes amb l’objectiu de difondre la potencialitat i rellevància històrica i literària de Caterina Albert. El cicle presenta l’oportunitat de vincular el personatge amb dones artistes contemporànies."
+              }
+          },
+          {
+            "date": "",
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 78.71190310803662,
+                "line": true,
+                "lon": -23.140625,
+                "zoom": 4
+              },
+              "media": {
+                  "caption": "Pòster del documental “La Víctor”",
+                  "credit": "filmaffinity.com",
+                  "url": "https://pics.filmaffinity.com/la_victor_tv-669241453-large.jpg"
+              },
+              "text": {
+                  "headline": "",
+                  "text": "<b>SOLUCIÓ 5: POTENCIAR EL DOCUMENTAL DE TV3, “LA VÍCTOR”</b><br>Creació d’una oferta educativa basada en activitats escolars - com per exemple maletes didàctiques- i el visionat del documental “La Víctor” de TV3."
+              }
+          },
+          {
+            "date": "",
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 65.71190310803662,
+                "line": true,
+                "lon": -15.140625,
+                "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": ""
+              },
+              "text": {
+                  "headline": "Bibliografia",
+                  "text": "- 2016. Any Caterina Albert. (2016). Disponible a: http://dones.gencat.cat/ca/ambits/historia/any_caterina_albert/<br>- Anglada, M. (1996). Caterina Albert, arqueòloga. Annals De L'institut D'estudis Empordanesos, 29. Disponible a: https://www.raco.cat/index.php/AnnalsEmpordanesos/article/view/342448/433593<br>- Badia, R. (2019). VISITA AL MUSEU-ARXIU VÍCTOR CATALÀ | Parroquia de Sant Martí d'Empuries. Disponible a: http://www.parroquiaempuries.org/ca/node/971<br>- Barcelona, D. (n.d.). Casa Museu Verdaguer - Informació general - El museu més gran de Catalunya. [online] Museuslocals.diba.cat. Disponible a: https://museuslocals.diba.cat/museu/7862<br>- Boix i Llonch, L. (2001). L'impacte de l'inici de les excavacions d'Empúries a l'Escala. Revista De Girona, 2008, pp.31-32. Disponible a: https://www.raco.cat/index.php/revistagirona/article/viewFile/112079/139710<br>- Caterina Albert / Víctor Català. (2016). Disponible a: http://dones.gencat.cat/ca/ambits/sensibilitzacio/exposicions/caterina_albert/<br>- Col.lecció Víctor Català – Caterina Albert – egipte.cat. Disponible a: https://egipte.org/?page_id=9382<br>- Fons, J., & Vilamala, J. (2001). Auca de Caterina Albert (1869-1966). Disponible a: http://www.auques.cat/auca.php?auca=victorc<br>Gual, X. Caterina Albert (Víctor Català). Disponible a:  https://www.escriptors.cat/autors/albertc/pagina.php?id_sec=632"
+              }
+          },
+          {
+            "date": "",
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 65.71190310803662,
+                "line": true,
+                "lon": -15.140625,
+                "zoom": 4
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": ""
+              },
+              "text": {
+                  "headline": "Bibliografia",
+                  "text": "- Heras i Tries, A. (1996). Víctor Català versus Caterina Albert. Aproximació a la persona que hi ha darrera l'escriptora. Annals De L'instititut D'estudis Empordanesos, 29. Disponible a: https://www.raco.cat/index.php/AnnalsEmpordanesos/article/view/342450/433597<br>- Multimèdia Víctor Català (Caterina Albert) - lletrA - La literatura catalana a internet. Disponible a: https://lletra.uoc.edu/ca/multimedia/vcatala-multi<br>- Museo Casa Cervantes. Disponible a: http://www.museocasanataldecervantes.org<br>- Oliveres i Llovera, C. (1996). La col·lecció emporitana de Caterina Albert i Paradís. Annals De L'institut D'estudis Empordanesos, 29. Disponible a:  https://www.raco.cat/index.php/AnnalsEmpordanesos/article/view/342449/433595<br>- Puntí, J. (2017). L'Escala compra la casa de Víctor Català in en rep el fons. El Punt Avui. Disponible a: http://www.elpuntavui.cat/cultura/article/19-cultura/1207004-l-escala-compra-la-casa-de-victor-catala.html<br>- Rotger, A. (2013). Caterina Albert, la dona rere la màscara. SÀPIENS. Disponible a: https://www.sapiens.cat/temes/dones/caterina-albert-la-dona-rere-la-mascara_13393_102.html<br>- TV3. (1997). Víctor Català [Video]. Retrieved from http://www.edu3.cat/Edu3tv/Fitxa?p_id=18129<br>Víctor Català (Caterina Albert) - Autores a lletrA - La literatura catalana a internet. Disponible a: https://lletra.uoc.edu/ca/autora/victor-catala-caterina-albert/comentaris-sobre-lautora<br>- Vila del Llibre | L'Escala VLL Festival 2019. (2019). Disponible a: https://www.viladelllibre.cat/lescala/"
+              }
+          },
+          {
+              "date": "",
+              "location": {
+                  "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                  "lat": 55.71563324165896,
+                  "line": true,
+                  "lon": -45.140625,
+                  "zoom": 3
+              },
+              "media": {
+                  "caption": "",
+                  "credit": "",
+                  "url": "<blockquote><p>Lo renou que han mogut los Dramas rurals no es deu a altra cosa que a la trista casualitat d’ésser escrits per una dona.</p><cite>Carta de Caterina Albert a Joan Maragall,<br> 23 de desembre del 1902</cite></blockquote>"
+              },
+              "text": {
+                  "headline": "",
+                  "text": ""
+              }
+          }
+
+      ],
+      "zoomify": {
+          "attribution": "",
+          "height": 19970,
+          "path": "http://gigapixel.knightlab.com/seurat/",
+          "tolerance": 0.9,
+          "width": 30000
+      }
+  }
+}
